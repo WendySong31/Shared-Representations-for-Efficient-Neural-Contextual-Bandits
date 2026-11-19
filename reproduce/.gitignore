@@ -1,0 +1,7 @@
+.deps/
+__pycache__/
+*.nbc
+*.nbi
+data/
+results/
+.venv/
